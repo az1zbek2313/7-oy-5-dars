@@ -127,7 +127,7 @@ function App() {
                     <label htmlFor="floatingTextarea">Comments</label>
                 </div>
                 
-                <button className='btn btn-primary w-100 mt-3 fs-5'>Add book</button>
+                <button className='btn btn-primary w-100 mt-3 fs-5'>Add user</button>
             </form>
 
             <table className={`table table-striped `}>
